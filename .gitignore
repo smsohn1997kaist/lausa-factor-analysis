@@ -1,0 +1,11 @@
+# Data and outputs are not part of this repository
+data/
+outputs/
+*.csv
+*.xlsx
+*.xls
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
