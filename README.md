@@ -2,7 +2,8 @@
 
 Code for the factor analysis and site-scoring workflow of
 
-> Sohn, S., Kim, N.W., Hansen, M., Yoon, Y. (2026). Addressing Equity in Urban Air Mobility: Latent Analysis of Urban Site Suitability and Attractiveness (LAUSA). Transportation Research Interdisciplinary Perspectives (under review).
+> Sohn, S., Kim, N
+> ., Hansen, M., Yoon, Y. (2026). Addressing Equity in Urban Air Mobility: Latent Analysis of Urban Site Suitability and Attractiveness (LAUSA). Transportation Research Interdisciplinary Perspectives (under review).
 
 The code takes a table of attributes for areal units (one row per unit) and produces latent factors, Suitability and Attractiveness scores, and v-scores that rank units as candidate vertiport areas.
 
