@@ -56,7 +56,7 @@ The factors are derived from the data, so a different city or attribute set give
 
 1. Run the pipeline and read `loadings.csv`.
 2. If needed, fix the factor numbering and signs with `FACTOR_ORDER` and `FACTOR_SIGNS` in the config.
-3. Interpret the factors and set `SUITABILITY` and `ATTRACTIVENESS` (factor and sign) for your context.
+3. Interpret the factors and set `SUITABILITY` and `ATTRACTIVENESS` (factor and sign) for the context.
 4. Run the pipeline again to get the v-scores and candidate counts.
 
 ## Layout
